@@ -1,10 +1,6 @@
 import 'dart:async';
-import 'dart:html';
-
 import 'package:bloc/bloc.dart';
-import 'package:connectivity/connectivity.dart';
-import 'package:meta/meta.dart';
-
+import 'package:connectivity_plus/connectivity_plus.dart';
 part 'internet_status_event.dart';
 part 'internet_status_state.dart';
 

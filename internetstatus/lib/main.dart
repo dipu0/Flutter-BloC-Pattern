@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'HomePage.dart';
+import 'package:internetstatus/HomePage.dart';
+
 import 'bloc/internet_status_bloc.dart';
 
 void main() {
